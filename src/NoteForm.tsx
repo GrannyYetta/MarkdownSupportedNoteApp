@@ -8,6 +8,7 @@ import { v4 as uuidV4 } from "uuid";
 type NoteFormProps = {
 	onSubmit: (data: NoteData) => void;
 	onAddTag: (tag: Tag) => void;
+	tags: Tag[];
 	availableTags: Tag[];
 } & Partial<NoteData>;
 
