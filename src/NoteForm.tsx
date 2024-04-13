@@ -17,7 +17,7 @@ export function NoteForm({
 	availableTags,
 	title = "",
 	markdown = "",
-	tags: [],
+	tags = [],
 }: NoteFormProps) {
 	const titleRef = useRef<HTMLInputElement>(null);
 	const markdownRef = useRef<HTMLTextAreaElement>(null);
