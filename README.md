@@ -1,3 +1,9 @@
+## Welcome to my Markdown Supported Note App
+
+I started this project because I wanted to learn how does markdown works and how to include it in a React project.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
