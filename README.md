@@ -2,7 +2,7 @@
 
 I started this project because I wanted to learn how does markdown works and how to include it in a React project.
 
-
+This is my first TypeScript project as such and used this opportunity to learn the implementation of types and generics.
 
 # React + TypeScript + Vite
 
